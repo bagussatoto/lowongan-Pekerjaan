@@ -18,6 +18,15 @@ Pada langkah ini akan dijelaskan instalasi sistem menggunakan XAMPP:
 6. Ubah pengaturan koneksi basis data pada file **connection.php**, sesuaikan dengan pengaturan XAMPP Anda (pengaturan default yang dibuat oleh Bagus Satoto adalah pengaturan default untuk XAMPP, Anda hanya perlu mengubah `$databaseName`menjadi nama basis data yang sudah Anda buat).
 7. Ubah juga pengaturan koneksi basis data dari mesin pada file **db_lowker**.
 
+## Daftar Penggunaan
+
+  - admin/perusahaan :
+    - username : amikom1
+    - password : amikom1
+    
+  - pendaftar /pelamar (bagus budi Satoto):
+    - username : bagusbudi
+    - password : bagusbudi
 
 ## Request Fitur Baru dan Pelaporan Bug
 
