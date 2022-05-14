@@ -28,7 +28,8 @@ Pada langkah ini akan dijelaskan instalasi sistem menggunakan XAMPP:
     - username : bagusbudi
     - password : bagusbudi
 
-![image](https://raw.githubusercontent.com/bagussatoto/lowongan-Pekerjaan/master/img/lowker.png)
+## Screenshot
+![Image of adduser](https://github.com/bagussatoto/lowongan-Pekerjaan/blob/main/scren/dasboard.png)
 
 ## Request Fitur Baru dan Pelaporan Bug
 
