@@ -1,4 +1,4 @@
-# [Lowongan Pekerjaan Berbasi Web]
+> # Lowongan Pekerjaan Berbasi Web
 
 **LOWKER** adalah aplikasi berbasis website untuk memudahkan para pencari kerja melamar pada perusahaan yang tersedia dihalaman situs website tersebut
 
@@ -27,6 +27,8 @@ Pada langkah ini akan dijelaskan instalasi sistem menggunakan XAMPP:
   - pendaftar /pelamar (bagus budi Satoto):
     - username : bagusbudi
     - password : bagusbudi
+
+![image](https://raw.githubusercontent.com/bagussatoto/lowongan-Pekerjaan/master/img/lowker.png)
 
 ## Request Fitur Baru dan Pelaporan Bug
 
